@@ -25,10 +25,11 @@
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
-Operating Systems Course (Spring 2023)
+Computer Architecture Course (Spring 2023)
 
 ### ⚙️ Requirements
 
+Write a Verilog HDL code that does the following:
 * You must use only the MINIMUM number of the follwing components: Full-adders, 4x1 Multiplexers, 2x1 Multiplexers, or, and, not, xor gates.
 * A full-adder counts only as 1 component, not counting the small components inside. Also, a multiplexer counts as 1 component.
 * At the beginning of the file, write a comment including the components you have used and the number of them.
