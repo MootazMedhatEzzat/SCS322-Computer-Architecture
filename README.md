@@ -39,6 +39,10 @@ Example:
 * 📥 The user inputs: 3
 * 🖥️ The program outputs: sum=7.361
 
+### 🛠️ To compile this assembly program on windows:
+* gcc -O3 -o assemblyAss.exe assemblyAss.s
+* After running the program, enter a positive integer and press Enter
+
 ---
 
 ### 🛠️ Programming Language and Development Tools Used
