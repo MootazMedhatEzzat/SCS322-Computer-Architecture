@@ -44,7 +44,6 @@ Write a Verilog HDL code that does the following:
 * You are not allowed to use behavioral Verilog descriptions (if, switch, ..etc) for multiplexers or any other aspects except for test bench.
 * Use structured Verilog descriptions for all aspects, except for test bench, so you can use behavioral Verilog description for test bench only.
 * The Verilog HDL code must be able to be compiled in the same way the provided lab samples are compiled with the instructions at top of them.
-* Half the mark is dedicatd to comments explaining the code before each code line and test cases.
 
 ---
 
